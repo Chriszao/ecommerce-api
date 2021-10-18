@@ -1,19 +1,16 @@
-# Foodcamp 🍔
-
 <p align="center">
-  <!-- <img  alt="Foodcamp Logo" src=""></img> -->
-  Logo of the project in development... 🚧
+  <img  alt="RedLoafer Logo" src="./assets/Logo.jpeg" />
 </p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Chriszao/foodcamp?color=%2304D361" />
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Chriszao/RedLoafer?color=%2304D361" />
 
   <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/progress-0%25-brightgreen.svg" alt="Progress">
+    <img src="https://img.shields.io/badge/progress-25%25-brightgreen.svg" alt="Progress">
   </a>
 	
-  <a href="https://github.com/Chriszao/foodcamp/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Chriszao/foodcamp"/>
+  <a href="https://github.com/Chriszao/RedLoafer/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Chriszao/RedLoafer"/>
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"/>
@@ -22,15 +19,15 @@
 <p align="center">
  <a href="#features-developed">Features developed</a> •
  <a href="#technologies">Technologies</a> •
- <a href="#running-foodcamp">Running foodcamp</a> •
- <a href="#contributing-to-foodcamp">Contributing to Foodcamp</a> •
+ <a href="#running-foodcamp">Running RedLoafer</a> •
+ <a href="#contributing-to-foodcamp">Contributing to RedLoafer</a> •
  <a href="#contributors">Contributors</a> •
 </p>
 
 a demo image of the application here...
 <!-- <img src="" alt="foodcamp system example"> -->
 
-> Foodcamp allows you take your shopping list wherever you go.
+> RedLoafer allows you take your shopping list wherever you go.
 
 ### Features developed
 
@@ -72,9 +69,9 @@ a demo image of the application here...
 ### Front-end:
 
 ---
-## 🚀 Running Foodcamp
+## 🚀 Running RedLoafer
 
-To install Foodcamp, follow these steps:
+To install RedLoafer, follow these steps:
 
 - For the backend:
 
@@ -85,7 +82,7 @@ For more information, read the documentation [Connection Options](https://typeor
 
 ~~~JSON
 {
-  // Arquivo de exemplo
+  // Example file
   "type": "", 
   "host": "", 
   "port": ,
@@ -107,8 +104,8 @@ $ yarn dev # (for back-end)
 
 ---
 
-## 📫 Contributing to Foodcamp
-To contribute with <strong>Foodcamp</strong>, follow these steps:
+## 📫 Contributing to RedLoafer
+To contribute with <strong>RedLoafer</strong>, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
@@ -148,4 +145,4 @@ We thank the following people who contributed to this project:
 </p>
 
 
-[⬆ Back to top](#Foodcamp)<br>
+[⬆ Back to top](#RedLoafer)<br>
