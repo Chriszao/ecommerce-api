@@ -34,7 +34,7 @@ class SendForgotPasswordEmailService {
         name: user.name,
         email,
       },
-      subject: '[Foodcamp] Recuperação de Senha',
+      subject: '[RedLoafer] Recuperação de Senha',
       templateData: {
         fileTemplate: forgotPasswordTemplate,
         variables: {
