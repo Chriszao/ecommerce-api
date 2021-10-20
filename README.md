@@ -53,6 +53,13 @@ a demo image of the application here...
 
 #### Front-end:
 
+- [ ] User
+  - [ ] User login and authentication;
+  - [ ] Registration;
+  - [ ] Forgot my password;
+  - [ ] Dashboard
+  - [ ] Complete the purchase
+
 ---
 
 ### 🛠️ Tecnologias
@@ -68,6 +75,10 @@ a demo image of the application here...
 
 ### Front-end:
 
+- [Angular](https://angular.io/);
+- [Typescript](https://www.typescriptlang.org/docs/);
+- [HTML] (https://developer.mozilla.org/pt-BR/docs/Web/HTML);
+- [SCSS] (https://sass-lang.com/);
 ---
 ## 🚀 Running RedLoafer
 
