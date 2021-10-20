@@ -57,8 +57,8 @@ a demo image of the application here...
   - [ ] User login and authentication;
   - [ ] Registration;
   - [ ] Forgot my password;
-  - [ ] Dashboard
-  - [ ] Complete the purchase
+  - [ ] Dashboard;
+  - [ ] Complete the purchase;
 
 ---
 
