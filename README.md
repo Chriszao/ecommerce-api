@@ -77,8 +77,8 @@ a demo image of the application here...
 
 - [Angular](https://angular.io/);
 - [Typescript](https://www.typescriptlang.org/docs/);
-- [HTML] (https://developer.mozilla.org/pt-BR/docs/Web/HTML);
-- [SCSS] (https://sass-lang.com/);
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML);
+- [SCSS](https://sass-lang.com/);
 ---
 ## 🚀 Running RedLoafer
 
