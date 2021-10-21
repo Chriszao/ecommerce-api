@@ -1,5 +1,5 @@
 <p align="center">
-  <img  alt="RedLoafer Logo" src="./assets/Logo.jpeg" />
+  <img  alt="RedLoafer Logo" src="./assets/logo.png" />
 </p>
 
 <p align="center">
