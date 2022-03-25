@@ -76,6 +76,12 @@ For more information, read the documentation [Connection Options](https://typeor
 }
 ~~~
 
+Add postgres dababase in docker container
+
+```bash
+  docker run --name <container_name> -e POSTGRES_PASSWORD=<database_password> -p 5432:5432 -d postgres
+``` 
+
 After creating the docker containers, update the project dependencies with the command below and you will be ready to run the application. 
 
 ~~~shell
